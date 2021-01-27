@@ -1,2 +1,2 @@
-This Project is to create HashTable and Binary Search Tree
+This project is to create hashTable and binary search tree
 
